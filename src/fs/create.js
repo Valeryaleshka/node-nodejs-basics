@@ -24,5 +24,4 @@ const create = async (context = 'I am fresh and young') => {
     });
 };
 
-
 await create();
