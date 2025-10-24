@@ -2,12 +2,11 @@ import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
 
+const dirname = path.dirname(fileURLToPath(import.meta.url));
+const src = path.join(dirname, 'files');
+
 const list = async () => {
   return new Promise((resolve, reject) => {
-
-      const dirname = path.dirname(fileURLToPath(import.meta.url));
-
-      const src = path.join(dirname, 'files');
 
       fs.readdir(src, (err, files) => {
           if (err) {
