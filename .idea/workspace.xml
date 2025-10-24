@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f594a5b-7369-451e-a552-9bfe865aa8ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/cli/args.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cli/args.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cp/cp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/cp/cp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <workItem from="1760999939082" duration="1481000" />
       <workItem from="1761001465763" duration="3249000" />
       <workItem from="1761075033613" duration="4448000" />
-      <workItem from="1761327073571" duration="11225000" />
+      <workItem from="1761327073571" duration="11352000" />
     </task>
     <servers />
   </component>
